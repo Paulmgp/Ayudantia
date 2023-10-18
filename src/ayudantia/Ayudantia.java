@@ -15,7 +15,7 @@ public class Ayudantia {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Modificado por MAin");
+        System.out.println("Modificado por E1");
     }
 
 }
