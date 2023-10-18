@@ -13,6 +13,8 @@ public class Login {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Login");
+        System.out.print("ingrese usuario");
+        System.out.print("Contraseña");
     }
 
 }
